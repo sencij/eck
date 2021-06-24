@@ -6,7 +6,7 @@ spec:
   version: 7.13.2
   count: 1
   elasticsearchRef:
-    name: quickstart
+    name: "quickstart"
   podTemplate:
     spec:
       containers:
